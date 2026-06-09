@@ -6,5 +6,6 @@ update:
  2. make it easier to look at
  3. Make the code easy to look at 
  4. Test the LLM.
- 5. Update the Chatbot
+ 5. Update the Chatbo
+ 6. Add them cac du an ve python
 /////
